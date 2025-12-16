@@ -6,6 +6,6 @@ All Bézier math, tangent calculation, and physics logic are implemented manuall
 
 How to Run (VS Code)
  Open the project folder in VS Code
- Open index.html
+ Open Simple-brezier.html 2
  Right-click inside the file and select "Open with Live Server" (or simply open the file in a browser)
 Move the mouse to interact with the Bézier curve

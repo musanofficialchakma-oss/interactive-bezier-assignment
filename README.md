@@ -1,8 +1,43 @@
-# interactive-bezier-assignment
-Implement an interactive cubic Bézier curve that behaves like a rope reacting to motion input. This project tests your understanding of math, graphics programming, and real-time input handling
-Interactive Bézier Curve with Physics & Sensor Control Description
-This project implements an interactive cubic Bézier curve that behaves like a springy rope. The curve reacts in real time to mouse movement and updates smoothly using a spring-damping physics model.
-All Bézier math, tangent calculation, and physics logic are implemented manually from scratch, without using any external libraries.
+
+
+README — Interactive Bézier Curve with Physics & Sensor Control
+
+Overview
+This project implements an interactive cubic Bézier curve that behaves like a springy rope. The curve responds in real time to user input (mouse on Web or gyroscope on iOS) and visualizes both the curve and its tangents.
+
+Math (Bézier Curve)
+The curve is a cubic Bézier defined by four control points .
+The curve is computed using the standard equation:
+,
+where .
+The curve is sampled at small intervals (e.g., 0.01) to render a smooth path.
+
+Tangent Computation
+Tangents are calculated using the analytical derivative of the Bézier equation:
+.
+Each tangent vector is normalized and drawn as a short line segment along the curve.
+
+Physics Model
+To create smooth, natural motion, control points  and  follow a spring–damping model:
+acceleration = -k * (position - target) - damping * velocity.
+Velocity and position are updated every frame, producing elastic, rope-like behavior.
+
+Interaction Design
+
+Endpoints  and  are fixed.
+
+Middle control points respond to input (mouse movement on Web or gyroscope data on iOS).
+
+Rendering runs in a continuous animation loop to maintain ~60 FPS.
+
+
+Design Choices
+
+All math and physics are implemented manually (no Bézier or physics libraries).
+
+Code is organized into clear sections: math, physics, input handling, and rendering.
+
+Simple visuals (points, curve, tangents) are used to clearly demonstrate the underlying concepts.
 
 How to Run (VS Code)
  Open the project folder in VS Code

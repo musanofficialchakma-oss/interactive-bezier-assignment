@@ -64,22 +64,6 @@ Look at bottom-right corner
 
 Click “open with Live server”
 
-### 🔹 MATLAB Version
-
-## 📁 Project Structure
-
-```
-interactive-bezier-curve/
-│── src/
-│── sensors/
-│── physics/
-│── main.py / bezier_curve.m
-│── requirements.txt
-│── README.md
-```
-
----
-
 ## 📊 Key Features
 
 * Real-time Bézier curve interaction

@@ -99,15 +99,13 @@ interactive-bezier-curve/
 ---
 
 ## 👤 Author
+**Musan Chakma**  
+B.Tech – Electronics & Instrumentation Engineering  
+NIT Agartala  
 
-**Musan Chakma**
-B.Tech – Electronics & Instrumentation Engineering
-NIT Agartala
-
-🔗 GitHub: [https://github.com/musanofficialchakma-oss](https://github.com/musanofficialchakma-oss)
-🔗 LinkedIn: [https://www.linkedin.com/in/musan-chakma-838718235/](https://www.linkedin.com/in/musan-chakma-838718235/)
-
----
+📄 Resume: https://drive.google.com/file/d/1bd-ajMC8qiMCw_pkf3cPKmGnJa8ZcPG-/view  
+🔗 GitHub: https://github.com/musanofficialchakma-oss  
+🔗 LinkedIn: https://www.linkedin.com/in/musan-chakma-838718235/
 
 ## ⭐ Acknowledgment
 

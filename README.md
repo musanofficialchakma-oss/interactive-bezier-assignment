@@ -87,7 +87,7 @@ Click “open with Live server”
 B.Tech – Electronics & Instrumentation Engineering  
 NIT Agartala  
 
-📄 Resume: https://drive.google.com/file/d/1bd-ajMC8qiMCw_pkf3cPKmGnJa8ZcPG-/view  
+📄 Resume: https://drive.google.com/file/d/1bd-ajMC8qiMCw_pkf3cPKmGnJa8ZcPG-/view?usp=drivesdk  
 🔗 GitHub: https://github.com/musanofficialchakma-oss  
 🔗 LinkedIn: https://www.linkedin.com/in/musan-chakma-838718235/
 
